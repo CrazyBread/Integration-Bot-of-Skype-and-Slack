@@ -1,4 +1,4 @@
-﻿using SKYPE4COMLib;
+﻿using Interop.SKYPE4COMLib;
 using SkypeBot;
 using System;
 using System.Collections.Generic;

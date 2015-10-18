@@ -1,0 +1,1 @@
+regsvr32 SkypeBotConsole\Libraries\Skype4COM.dll
